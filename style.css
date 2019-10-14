@@ -1,0 +1,54 @@
+td,
+th {
+    text-align: center;
+    padding: 1em;
+}
+
+td[scope="col"] {
+    background-color: #696969;
+}
+
+th[scope="row"] {
+	background-color: #ebebeb;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.orange {
+	font-weight: bold;
+	background-color: #d96834;
+	border: 1px solid black;
+	cursor: grab;
+}
+
+.violet {
+	background-color: #e972ed;
+	font-weight: bold;
+	border: 1px solid black;
+	cursor: grab;
+}
+
+.blue {
+	background-color: #74c7e8;
+	font-weight: bold;
+	border: 1px solid black;
+	cursor: grab;
+}
+
+.yellow {
+	background-color: #f2ec72;
+	font-weight: bold;
+	border: 1px solid black;
+	cursor: grab;
+}
+
+p{
+	color: green;
+}
+
+td:hover{
+	background: #b4d92e
+}
